@@ -5,7 +5,7 @@
 
 ## 🛠️ 開発環境
 - 開発言語：C、C#、C++
-- 使用ライブラリ：DxLib（https://dxlib.xsrv.jp/）
+- 使用ライブラリ：DxLib
 - 開発環境：Visual Studio 2022
 
 ## ▶ プレイ方法
